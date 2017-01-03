@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Simple node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikartoon/test.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Pratik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikartoon/test/issues"
+  },
+  "homepage": "https://github.com/pratikartoon/test#readme"
+}
